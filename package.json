@@ -2,7 +2,7 @@
   "name": "eugene-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://v1valasvegan.github.io/hooks-and-context",
+  "homepage": "https://v1valasvegan.github.io/hooks-and-context",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
