@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  BrowserRouter as Router, Route, Redirect, Switch,
+  HashRouter as Router, Route, Redirect, Switch,
 } from 'react-router-dom';
 import Posts from './components/Posts';
 import UserProvider from './components/UserProvider';
